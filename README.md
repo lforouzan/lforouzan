@@ -20,7 +20,7 @@ I'm a Senior Manager of Research and Data Analysis at [Catalyst California](www.
 
 ## 🚀 Featured Projects
 
-- 📊 **RACE COUNTS** – RACE COUNTS maintains a comprehensive data tracking tool of racial disparities across the statewide and in different communities. Through cutting-edge, rigorous research and analysis, RACE COUNTS can help provide a roadmap of how we can unwind generations of racial oppression and make California a Golden State for everyone.
+- 📊 **RACE COUNTS** – The RACE COUNTS initiative includes a comprehensive data tracking tool of racial disparities in California at the city, county, state legislative, and state levels. Through cutting-edge, rigorous research and analysis, RACE COUNTS can help provide a roadmap of how we can unwind generations of racial oppression and make California a Golden State for everyone.
   [https://github.com/catalystcalifornia/RaceCounts](https://github.com/catalystcalifornia/RaceCounts)
 
 ## 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/leilaforouzan/)
