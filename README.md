@@ -1,6 +1,6 @@
 # Hi, I'm Leila Forouzan👋
 
-I'm a Senior Manager of Research and Data Analysis at [Catalyst California](www.catalystcalifornia.org). I earned my M.P.A. in Public Policy from Baruch College, City University of New York and B.A. in International Affairs from the University of Pittsburgh. She is originally from Pittsburgh, PA and New Orleans.
+I'm a Senior Manager of Research and Data Analysis at [Catalyst California](www.catalystcalifornia.org). I earned my M.P.A. in Public Policy from Baruch College, City University of New York and B.A. in International Affairs from the University of Pittsburgh. I am originally from Pittsburgh, PA and New Orleans.
 
 ## 🔍 What I Work On
 - Crafting compelling data stories that center equity and justice
