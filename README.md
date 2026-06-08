@@ -3,6 +3,9 @@
 I'm a Senior Manager of Research and Data Analysis at [Catalyst California](https://www.catalystcalifornia.org/). I earned my M.P.A. in Public Policy from Baruch College, City University of New York and B.A. in International Affairs from the University of Pittsburgh. I am originally from Pittsburgh, PA and New Orleans.
 
 ## 🔍 What I Work On
+Innovative research designed to reveal racial inequities and shift narratives and power. A focus on providing relevant, rigorous, and actionable data for campaign development, policy formation, and initiative building. Research highlighting the issues affecting communities most impacted by systemic racial injustice in climate, education, civic engagement, and more.
+
+## :desktop_computer: What That Looks Like
 - Crafting compelling data stories that center equity and justice
 - Geographic analysis across California to identify our highest need communities
 - Creating data-driven tools for grassroots organizers to use for advocacy and broader civic engagement
